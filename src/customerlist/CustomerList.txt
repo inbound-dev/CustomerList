@@ -1,0 +1,6 @@
+Customer Address   City   Province  Postal Code
+
+Jordan  14 Mackay  Guelph  Ontario  N1E 7H3
+George  124 Speedvale  Guelph  Ontario  N9G H7V
+Nathan  14 Mackay  Guelph  Ontario  N1E 7H3
+Andrew  428 Young  Toronto  Ontatio  G6H 8J3
